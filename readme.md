@@ -10,10 +10,9 @@
   <img alt="Top language" src="https://img.shields.io/github/languages/top/commonality/readme-inspector.svg">
 </p>
 
----
 
 <h2 align="center">
-   [Demonstration here]()
+   [Demonstration here](/)
 </h2>
 
 ---
