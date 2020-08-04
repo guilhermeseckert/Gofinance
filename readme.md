@@ -15,7 +15,7 @@
 <h2 align="center">
    [Demonstration here]()
 </h2>
-s
+
 ---
 
 <div align="center">
@@ -25,20 +25,27 @@ s
 
 ---
 
+## 💻 Web
  <p align="center">
   <img width="680" height="460" src="img/web.png">
 </p>
 
+---
+
+## 📱 Mobile
+
 <p align="center">
-  <img width="275" height="300" src="img/mobile.png">
+  <img width="300" height="350" src="img/mobile.png">
 </p>
 
 <p align="center">
-  <img width="275" height="300" src="img/mobile_1.png">
+  <img width="300" height="350" src="img/mobile_1.png">
 </p>
 
 
 </div>
+
+---
 
 <h4 align="center">
 	🚧  🚀 Under  construction ...  🚧
@@ -51,6 +58,7 @@ The following tools were used in the construction of the project:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
+- [docker](https://www.docker.com/)
 
 
 ## Features
@@ -58,7 +66,6 @@ The following tools were used in the construction of the project:
 - [x] Register income/outcome
 - [x] Categorized
 - [x] import CSV file
-
 
 
 
@@ -77,26 +84,61 @@ In addition, it is good to have an editor to work with the code like
 
 ## Project
 
+# Backend
+
+
 
 #### Dependencies
 
-- Firebase
-- Sass
-- React
+- Cors
+- Csv-parse
+- Express
 - Dotenv
-- Redux
-- Styled-components
+- Multer
+- Pg
+- Reflect-metadata
+- Typeorm
 
+
+
+# Frontend
+
+#### Dependencies
+
+- ..
 
 
 ### 🎲 Running the the project
 
 ``` bash
 # Clone this repository
-$ git clone https://github.com/guilhermeseckert/ClothesEcommerce.git
+$ git clone https://github.com/guilhermeseckert/Gofinance.git
+
+#backend
 
 # Access the project folder in the / cmd terminal
-$ cd CRWN-CLOTHING
+$ cd Gofinance
+
+# Access the project folder in the / cmd terminal
+$ cd backend
+
+# Install the dependencies
+$ yarn
+
+# Run the application in development mode
+$ dev:server
+
+```
+
+
+``` bash
+# frontend
+
+# Access the project folder in the / cmd terminal
+$ cd Gofinance
+
+# Access the project folder in the / cmd terminal
+$ cd frontend
 
 # Install the dependencies
 $ yarn
