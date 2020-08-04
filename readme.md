@@ -2,12 +2,7 @@
 
 
 <p align="center">
-  <img width="150" height="100" src="img/logo.svg">
-</p>
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/commonality/readme-inspector.svg">
-  <img alt="Top language" src="https://img.shields.io/github/languages/top/commonality/readme-inspector.svg">
+  <img width="150" height="100" src="img/logo.png">
 </p>
 
 
@@ -34,11 +29,8 @@
 ## 📱 Mobile
 
 <p align="center">
-  <img width="300" height="350" src="img/mobile.png">
-</p>
-
-<p align="center">
-  <img width="300" height="350" src="img/mobile_1.png">
+  <img width="250" height="350" src="img/mobile.png">
+  <img width="250" height="350" src="img/mobile_1.png">
 </p>
 
 
@@ -68,6 +60,11 @@ The following tools were used in the construction of the project:
 - [x] import CSV file
 
 
+## CSV example file
+
+<a href="./img/file.csv" download>
+  <img width="50" height="50" src="./img/csv.png" alt="File">
+</a>
 
 
 ### Prerequisites
