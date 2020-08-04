@@ -13,24 +13,26 @@
 ---
 
 <h2 align="center">
-	 🚀 Gofinance is a aplication to help people organizer their fiances and controlle their income and outcome. 🚀
-
    [Demonstration here]()
 </h2>
+
+<div align="center">
+  Gofinance is an application to help people organize their finances and control their income and outcome.
+</div>
 
 
 ---
 
  <p align="center">
-  <img width="2880" height="1640" src="img/web.png">
+  <img width="580" height="600" src="img/web.png">
 </p>
 
 <p align="center">
-  <img width="375" height="667" src="img/mobile.png">
+  <img width="275" height="367" src="img/mobile.png">
 </p>
 
 <p align="center">
-  <img width="375" height="667" src="img/mobile_1.png">
+  <img width="275" height="367" src="img/mobile_1.png">
 </p>
 
 
