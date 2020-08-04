@@ -1,4 +1,4 @@
- ** Go Finances **
+ **Go Finances**
 
 
 <p align="center">
@@ -15,6 +15,8 @@
 <h2 align="center">
    [Demonstration here]()
 </h2>
+s
+---
 
 <div align="center">
   Gofinance is an application to help people organize their finances and control their income and outcome.
@@ -24,15 +26,15 @@
 ---
 
  <p align="center">
-  <img width="580" height="600" src="img/web.png">
+  <img width="680" height="460" src="img/web.png">
 </p>
 
 <p align="center">
-  <img width="275" height="367" src="img/mobile.png">
+  <img width="275" height="300" src="img/mobile.png">
 </p>
 
 <p align="center">
-  <img width="275" height="367" src="img/mobile_1.png">
+  <img width="275" height="300" src="img/mobile_1.png">
 </p>
 
 
