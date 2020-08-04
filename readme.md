@@ -58,7 +58,8 @@ The following tools were used in the construction of the project:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [docker](https://www.docker.com/)
+- [React Natice](https://reactnative.dev/)
+
 
 
 ## Features
@@ -76,6 +77,7 @@ Before you begin, you will need to have the following tools installed on your co
 
  - [Git](https://git-scm.com)
  - [Node.js](https://nodejs.org/en/)
+ - [Docker](https://www.docker.com/)
 
 In addition, it is good to have an editor to work with the code like
 
@@ -85,7 +87,6 @@ In addition, it is good to have an editor to work with the code like
 ## Project
 
 # Backend
-
 
 
 #### Dependencies
