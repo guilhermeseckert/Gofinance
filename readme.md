@@ -39,7 +39,7 @@
 ---
 
 <h4 align="center">
-	🚧  🚀 Under  construction ...  🚧
+	🚧  🚀 Under construction ...  🚧
 </h4>
 
 
@@ -57,7 +57,7 @@ The following tools were used in the construction of the project:
 
 - [x] Register income/outcome
 - [x] Categorized
-- [x] import CSV file
+- [x] Import CSV file
 
 
 ## CSV example file
