@@ -6,9 +6,6 @@
 </p>
 
 
-<h2 align="center">
-   [Demonstration here](/)
-</h2>
 
 ---
 
